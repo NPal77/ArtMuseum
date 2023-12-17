@@ -1,0 +1,49 @@
+Sculpture
+David
+Michelangelo
+1504
+Marble
+true
+Painting
+Mona Lisa
+Leonardo da Vinci
+1503
+Oil on poplar panel
+Painting
+The Starry Night
+Vincent van Gogh
+1889
+Oil on canvas
+Sculpture
+The Little Fourteen Year Old Dancer
+Edgar Degas
+1801
+Wax
+true
+Painting
+The Scream
+Edvard Munch
+1893
+Oil, tempera, pastel and crayon on cardboard
+Painting
+Guernica
+Pablo Picasso
+1937
+Oil on canvas
+Sculpture
+Guitar
+Pablo Picasso
+1912
+Tin
+false
+Painting
+The Kiss
+Gustav Klimt
+1907
+Oil and gold leaf on canvas
+Sculpture
+The Thinker
+Auguste Rodin
+1901
+Bronze
+true
