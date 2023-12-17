@@ -1,7 +1,7 @@
 /**
  * @author Nishanth Palanisamy
  */
-public class Sculpture extends Painting { //update to inherit from Painting
+public class Sculpture extends Painting {
     private boolean humanForm;
     
     /**
